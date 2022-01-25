@@ -1,0 +1,38 @@
+body {
+	background-color: #262626;
+	font-family: 'Chakra Petch', sans-serif;
+
+}
+
+table {
+	color: white;
+	border-collapse: collapse;
+}
+
+h1 {
+	color: darkgray;
+	font-size: 82px;
+	text-align: center;
+
+}
+
+span {
+	color: paleturquoise !important;
+}
+
+th {
+	text-align: center;
+	font-weight: bold;
+	background-color: #333333 !important;
+}
+
+table, th, td{
+  border: 2px solid darkgray;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #666666;
+}
+
+table {
+
+}
